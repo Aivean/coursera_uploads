@@ -7,7 +7,7 @@ This assignment requires that you identify at least two publicly accessible data
 Files
 ---
 
-* `gz_2010_us_050_00_500k.shp` —  Cartographic Boundary Shapefile: Counties (2010)
+* `gz_2010_us_050_00_500k` —  Cartographic Boundary Shapefile: Counties (2010)
 
     Source: https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
     
